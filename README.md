@@ -1,1 +1,1 @@
-# DataStructures
+This project is currently still being developed. The goal for this project is to create a web app with Python/Flask that shows the full implementations of various data structures and graphical/animated representations of how the data structures and their subsequent operations work
